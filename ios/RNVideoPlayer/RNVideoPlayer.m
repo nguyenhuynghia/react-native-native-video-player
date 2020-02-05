@@ -2,8 +2,8 @@
 //  RNVideoPlayer.m
 //  RNVideoPlayer
 //
-//  Created by DC5 Admin (MACMINI032) on 10/25/16.
-//  Copyright © 2016 DC5 Admin (MACMINI032). All rights reserved.
+//  Created by HuyNghia on 10/25/16.
+//  Copyright © 2016 HuyNghia. All rights reserved.
 //
 
 #import "RNVideoPlayer.h"
